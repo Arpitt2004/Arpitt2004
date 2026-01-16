@@ -1,35 +1,35 @@
-<h1 align="center">
-  👋 Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
-</h1>
+<h1 align="center">👋 Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h1>
 
 <h3 align="center">
-  Pre-Final Year B.Tech Student | Frontend Developer
+  Arpit Agarwal | Pre-Final Year B.Tech Student | Frontend Developer
 </h3>
 
-<br/>
+<p align="center">
+  🎓 GLA University, Mathura <br/>
+  💻 Web Development • React • JavaScript • DSA
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Java;DSA+Learner;Clean+UI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Java;DSA+Learner;Clean+UI+Enthusiast" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **Pre-Final Year B.Tech Student** at **GLA University, Mathura**
-- 💻 Passionate about **Frontend Development** and **Web Technologies**
+- 🎓 Pre-Final Year **B.Tech Student** at **GLA University, Mathura**
+- 💻 Passionate about **Frontend Development**
 - 🌱 Currently learning **DSA & Advanced React**
-- 🤝 Open to **internships, collaborations & open-source**
+- 🤝 Open to **internships & collaborations**
 - ✨ *“Learning never exhausts the mind.”*
 
 ---
 
 ## 🚀 Projects
+> _(You can edit this section anytime)_
 
-> *(You can edit this section anytime)*
-
-- **Project 1** – _Project description goes here_
-- **Project 2** – _Project description goes here_
+- **Project 1** – _Description coming soon_
+- **Project 2** – _Description coming soon_
 
 **Tech Stack Used:**  
 `HTML` • `CSS` • `JavaScript` • `React` • `MySQL`
@@ -75,21 +75,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=arpitt2004&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <!-- Replace # with your real links -->
+  <a href="#" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
   </a>
 </p>
-
 
 ---
 
