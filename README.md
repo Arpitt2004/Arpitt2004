@@ -64,31 +64,32 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitt2004&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitt2004&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitt2004&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitt2004&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitt2004&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitt2004&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <!-- Add your links below -->
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45"/>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="45"/>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
   </a>
 </p>
+
 
 ---
 
