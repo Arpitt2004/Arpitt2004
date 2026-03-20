@@ -1,97 +1,131 @@
-<h1 align="center">👋 Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h1>
-
-<h3 align="center">
-  Arpit Agarwal | Pre-Final Year B.Tech Student | Frontend Developer
-</h3>
-
+<!-- Animated Banner -->
 <p align="center">
-  🎓 GLA University, Mathura <br/>
-  💻 Web Development • React • JavaScript • DSA
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Arpit Agarwal</h1>
+<h3 align="center">🚀 Java Developer | ☁️ Cloud Enthusiast | 📚 DSA Learner</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Java;DSA+Learner;Clean+UI+Enthusiast" />
+Building skills in <b>Software Development + Cloud + DevOps</b>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+# 💫 About Me
 
-- 🎓 Pre-Final Year **B.Tech Student** at **GLA University, Mathura**
-- 💻 Passionate about **Frontend Development**
-- 🌱 Currently learning **DSA & Advanced React**
-- 🤝 Open to **internships & collaborations**
-- ✨ *“Learning never exhausts the mind.”*
+👨‍💻 **Currently Working On**
+- ☁️ Cloud Infrastructure Project using **AWS (EKS + Terraform + ALB Ingress)**
+- 📈 Improving **Data Structures & Algorithms for placements**
+- 💻 Solving problems on **LeetCode & Codeforces**
 
----
+🤝 **Looking to Collaborate On**
+- Cloud / DevOps Projects
+- Java Backend Projects
+- Open Source Beginner Contributions
 
-## 🚀 Projects
-> _(You can edit this section anytime)_
+🆘 **Looking For Help With**
+- Advanced DSA problem-solving
+- System Design Basics
+- Production-level DevOps workflows
 
-- **Project 1** – _Description coming soon_
-- **Project 2** – _Description coming soon_
+📚 **Currently Learning**
+- Java + Data Structures
+- DBMS, Networking, Operating Systems
+- AWS, Kubernetes, Terraform
 
-**Tech Stack Used:**  
-`HTML` • `CSS` • `JavaScript` • `React` • `MySQL`
+💬 **Ask Me About**
+- Java Coding
+- DBMS & SQL
+- Computer Networks
+- Microprocessors (8085 / 8086)
 
----
-
-## 🛠️ Skills
-
-### 💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/>
-</p>
-
-### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40"/>
-</p>
+⚡ **Fun Fact**
+> I keep debugging until the last test case passes 😄
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitt2004&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://linkedin.com/in/www.linkedin.com/in/arpit-agarwal-09b4aa347">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitt2004&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitt2004&theme=tokyonight&no-frame=true&row=1&column=6" />
+<a href="mailto:arpit.agarwal9010@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Tech Stack
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <!-- Replace # with your real links -->
-  <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=Arpitt2004&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpitt2004&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitt2004&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
+# 🏆 GitHub Achievements
+
 <p align="center">
-  ⭐ If you like my profile, consider following me!
+<img src="https://github-profile-trophy.vercel.app/?username=Arpitt2004&theme=algolia"/>
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpitt2004&theme=tokyo-night"/>
+</p>
+
+---
+
+# ✨ Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Arpitt2004&label=Profile%20Views&color=0&icon=5"/>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
