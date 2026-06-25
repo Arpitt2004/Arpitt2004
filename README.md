@@ -62,7 +62,7 @@ Building skills in <b>Software Development + dsa + java</b>
 # 🚀 Tech Stack
 
 ### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java).
+![Java]
 [Html]
 [Css]
 [dsa]
