@@ -62,9 +62,12 @@ Building skills in <b>Software Development + dsa + java</b>
 # 🚀 Tech Stack
 
 ### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Java]
+[Html]
+[Css]
+[dsa]
+
+![JavaScript]
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
