@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Arpit Agarwal</h1>
-<h3 align="center">🚀 Java Developer | ☁️ Cloud Enthusiast | 📚 DSA Learner</h3>
+<h3 align="center">🚀 software Developer | ☁️ Cloud Enthusiast | 📚 DSA Learner</h3>
 
 <p align="center">
-Building skills in <b>Software Development + Cloud + DevOps</b>
+Building skills in <b>Software Development + dsa + java</b>
 </p>
 
 ---
